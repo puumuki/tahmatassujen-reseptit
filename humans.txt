@@ -1,0 +1,18 @@
+# humanstxt.org/
+# The humans responsible & technology colophon
+
+# TEAM
+
+    Teemu Puukko -- Chef, Developer
+    Ressu Tekoniemi -- Chef
+
+# THANKS
+
+    Emanuil Rusev for markdown implementation
+    Layout http://html5boilerplate.com/
+
+# TECHNOLOGY COLOPHON
+
+    HTML5, CSS3
+    jQuery, Modernizr
+    markdown
