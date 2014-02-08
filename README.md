@@ -7,4 +7,4 @@ Kaikki reseptit jotka sivulta löytyvät on testattu ja hyväksi todettuja. Mit�
 
 Tahmatassus
 
-[Restikirjan demo](http://example.com/ "Demo")
+[Restikirjan demo](http://nikita.tnnet.fi/~teemuki/Reseptit/ "Demo")
