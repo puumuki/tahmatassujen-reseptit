@@ -22,7 +22,7 @@ body {
 }
 
 .main img {
-    width: 100%;
+    width-max: 100%;
 }
 
 .main .imageauto { 
