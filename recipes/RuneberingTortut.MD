@@ -17,8 +17,8 @@ __Kostuke__
 + pari tippaa sitruunamehua
 
 __Sokeri kuorrute__
-1.5 dl tomusokeria
-0.5 - 1 rkl sitruuna mehua tai vettä
++ 1.5 dl tomusokeria
++ 0.5 - 1 rkl sitruuna mehua tai vettä
 
 Sekoita pehmennyt voi ja sokeri vaahdoksi. Lisää munat ja vatkaa seos tasaiseksi. Sekoita leivinjauhe jauhoihin ja lisää jauhoseos taikinaan koko ajan sekoittaen. Lisää kardemummo, piparkakkumurut ja mantelijauho taikinaan sekä lopuksi kerma. Sekoita hyvin.
 
@@ -27,3 +27,5 @@ Täytä vuoat 2/3 osaa vuoasta. Laita vuoat uunipellille ja paista tortut 200 C 
 Sokerikuorrutteen teet sekoittamalla tomusokeria ja sitruunmehua keskenään. Lisää sitruunamehua ainoastaan sen verran, että saat sopivan notkean sokerikuorrutteen.
 
 Koristele nokareella vadelma hilloa ja ympäröi vadelmahillo sokerikuorrute ringillä.
+
+[Alkuperäinen ohje](http://www.makuja.fi/reseptit/runebergintortut-3/ "Alkuperäinen ohje")
