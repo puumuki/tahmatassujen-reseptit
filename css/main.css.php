@@ -24,3 +24,14 @@ body {
 .main img {
     width: 100%;
 }
+
+.main .imageauto { 
+	width: auto;
+	margin: 0em 1em;
+}
+
+.pawlogo {
+	width: 32px;
+	margin: 10px;
+	float:left;
+}

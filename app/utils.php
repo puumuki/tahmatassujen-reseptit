@@ -85,8 +85,16 @@ function request($key, $default = null) {
 /**
  * Helper function for checking is current recipe active
  * @param $recipe type recipe
- * @return string "active" if active, empty string if not active
+ * @return string 'active' if active, empty string if not active
  */
 function active(Recipe $recipe) {
-	return $recipe->hash() == request('recipe') ? "active" :"";
+	return $recipe->hash() == request('recipe') ? 'active' :'';
+}
+
+
+function page_active() {
+	$pages = func_get_args ();
+	$parts = explode('/', $_SERVER['SCRIPT_NAME']);
+	$filename = $parts[count($parts)-1];
+	return in_array($filename , $pages)  ? "active" : "";
 }
