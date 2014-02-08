@@ -1,4 +1,4 @@
-Runebergin tortut
+Runebergintortut
 =================
 
 __Sokerikuorrute__
@@ -28,4 +28,7 @@ Sokerikuorrutteen teet sekoittamalla tomusokeria ja sitruunmehua keskenään. Li
 
 Koristele nokareella vadelma hilloa ja ympäröi vadelmahillo sokerikuorrute ringillä.
 
-[Alkuperäinen ohje](http://www.makuja.fi/reseptit/runebergintortut-3/ "Alkuperäinen ohje")
+![Runebergintortut](img/runebergintortut.jpg)
+
+
+Ohje on muunnos [alkuperäisestä](http://www.makuja.fi/reseptit/runebergintortut-3/ "Alkuperäinen ohje") ohjeesta. Sivulta www.makuja.fi.
