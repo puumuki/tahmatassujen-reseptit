@@ -10,19 +10,23 @@ $mainColor = "#8c530f";
 body {
   min-height: 2000px;
   padding-top: 70px;
+  background: url('../img/crossword.png') repeat;
 }
 
 .main {
-    font-family:Georgia, Palatino, serif;
+    font-family:Georgia, Palatino, serif;    
 }
 
 .main ul {
-
     font-size: 21px;
 }
 
 .main img {
     width-max: 100%;
+}
+
+.jumbotron {
+background: url('../img/sos.png') repeat;	
 }
 
 .main .imageauto { 
