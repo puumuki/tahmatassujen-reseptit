@@ -81,3 +81,12 @@ function read_recipe($path) {
 function request($key, $default = null) {
     return isset($_REQUEST[$key]) ? $_REQUEST[$key] : $default;
 }
+
+/**
+ * Helper function for checking is current recipe active
+ * @param $recipe type recipe
+ * @return string "active" if active, empty string if not active
+ */
+function active(Recipe $recipe) {
+	return $recipe->hash() == request('recipe') ? "active" :"";
+}

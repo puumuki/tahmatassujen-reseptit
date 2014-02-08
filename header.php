@@ -12,17 +12,6 @@
     <link rel="stylesheet" href="css/bootstrap.min.css">
     <link rel="stylesheet" href="css/bootstrap-theme.min.css">
 
-    <style>
-        body {
-          min-height: 2000px;
-          padding-top: 70px;
-        }
-
-        .main img {
-            width: 100%;
-        }
-    </style>
-
     <link rel="stylesheet" href="css/normalize.min.css">
     <link rel="stylesheet" href="css/main.css.php">
 
@@ -31,5 +20,5 @@
     <link rel="apple-touch-icon" sizes="76x76" href="touch-icon-ipad.png" />
     <link rel="apple-touch-icon" sizes="120x120" href="touch-icon-iphone-retina.png" />
     <link rel="apple-touch-icon" sizes="152x152" href="touch-icon-ipad-retina.png" />
-
 </head>
+<body>

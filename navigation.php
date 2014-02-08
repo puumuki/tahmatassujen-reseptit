@@ -3,24 +3,17 @@
       <div class="container">
         <div class="navbar-header">
           <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
-            <span class="sr-only">Toggle navigation</span>
+            <span class="sr-only">Avaa menu</span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
             <span class="icon-bar"></span>
           </button>
-          <a class="navbar-brand" href="#">Reseptit</a>
+          <a class="navbar-brand" href="#">Tahmatassujen reseptit</a>
         </div>
         <div class="navbar-collapse collapse">
           <ul class="nav navbar-nav">
-            <li class="dropdown">
-              <a href="#" class="dropdown-toggle" data-toggle="dropdown">Reseptit <b class="caret"></b></a>
-              <ul class="dropdown-menu">
-                <?php foreach ($recipes as $rep): ?>
-                  <li><a href='index.php?recipe=<?= $rep->hash() ?>'><li><?= $rep->title() ?></li></a></li>
-                <?php endforeach; ?>
-              </ul>
-            </li> 
-            <li><a href="#about">Info</a></li>            
+            <li><a href="recipelist.php">Reseptit</a></li>            
+            <li><a href="about.php">Info</a></li>            
           </ul>
           <ul class="nav navbar-nav navbar-right">
             <li><a href="index.php?recipe=random">Sattumanvarainen</a></li>
