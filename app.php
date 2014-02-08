@@ -28,10 +28,12 @@ foreach( $recipes as $res ) {
 
 $recipe = null;
 
-if(request('recipe') == 'random') {
+if(request('recipe','random') == 'random') {
 	$hash = array_rand($hashes);
 	$recipe = $hashes[$hash];
 }
 else if(request('recipe') and array_key_exists(request('recipe'), $hashes)) {
 	$recipe = $hashes[request('recipe')];
 } 
+
+
