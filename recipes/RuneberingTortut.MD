@@ -25,6 +25,8 @@ Sekoita pehmennyt voi ja sokeri vaahdoksi. Lisää munat ja vatkaa seos tasaisek
 
 Täytä vuoat 2/3 osaa vuoasta. Laita vuoat uunipellille ja paista tortut 200 C asteessa uunissa 13-15 minuutin ajan.
 
+Anna torttujen jäähtyä ja lisää kostuke. Kostukkeen voit tehdä vaikka tiivistemehusta tai muusta makeasta nesteestä.
+
 Sokerikuorrutteen teet sekoittamalla tomusokeria, vettä ja sitruunmehua keskenään. Lisää vettä ainoastaan sen verran, että saat sopivan notkean sokerikuorrutteen.
 
 Koristele nokareella vadelma hilloa ja ympäröi vadelmahillo sokerikuorrute ringillä.
