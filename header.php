@@ -23,10 +23,8 @@
         }
     </style>
 
-    <!--
     <link rel="stylesheet" href="css/normalize.min.css">
     <link rel="stylesheet" href="css/main.css.php">
-    -->
 
     <link rel="icon" href="touch-icon-iphone.png" type="image/png" />
     <link rel="apple-touch-icon" href="touch-icon-iphone.png" />
