@@ -21,12 +21,12 @@ body {
     font-size: 21px;
 }
 
-.main img {
-    width-max: 100%;
+.main .jumbotron img {	
+    max-width: 100%;
 }
 
 .jumbotron {
-background: url('../img/sos.png') repeat;	
+	background: url('../img/sos.png') repeat;	
 }
 
 .main .imageauto { 
