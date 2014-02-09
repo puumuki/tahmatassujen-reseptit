@@ -15,9 +15,6 @@
         <li class="<?php echo page_active('recipelist.php', 'index.php'); ?>"><a href="recipelist.php">Reseptit</a></li>            
         <li class="<?php echo page_active('about.php'); ?>" ><a href="about.php">Info</a></li>            
       </ul>
-      <ul class="nav navbar-nav navbar-right">
-        <li><a href="index.php?recipe=random">Sattumanvarainen</a></li>
-      </ul>
     </div><!--/.nav-collapse -->
   </div>
 </div>
