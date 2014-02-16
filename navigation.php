@@ -7,8 +7,7 @@
         <span class="icon-bar"></span>
         <span class="icon-bar"></span>
       </button>
-      <img class="pawlogo" src="img/paw.png" />
-      <a class="navbar-brand" href="index.php">Tahmatassujen reseptit</a>
+      <a href="index.php"><img class="pawlogo" src="img/paw.png" /></a>      
     </div>
     <div class="navbar-collapse collapse">
       <ul class="nav navbar-nav">
