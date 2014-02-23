@@ -9,6 +9,8 @@ Bolognesekastike
 + sitruunapippuria
 + runsaasi tomaattipyreetä
 
-Laita pannu lämpiämään, kuori ja silppua sipuli sinä aikana. Ruskista jauhelija ja sipuli pannulla. Lisää tomaattipyre ja sekoita hyvin. Mauta sitruunapippurilla, lihaliemikuutiolle ja suolalla. Lopuksi lisää ruokakerma, halutessasi voit laimeltaa kastiketta vedellä.
+Laita pannu lämpiämään, kuori ja silppua sipuli pannun kuumetessa. Ruskista jauhelija ja sipuli pannulla. Lisää tomaattipyre ja sekoita hyvin. Mausta jauheliha sitruunapippurilla, lihaliemikuutiolle ja suolalla. Lopuksi lisää ruokakerma.
+
+Voit halutessasi laimeltaa kastiketta vedellä.
 
 Sopii nautittavaksi riisin, makaronin tai spagetin kanssa. 
