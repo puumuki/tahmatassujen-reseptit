@@ -11,5 +11,4 @@
 
 Sekoita kuivataineet keskenään. Lisää munat, maito ja margariini.
 
-Levitä uunipellille leivinpaperi ja kaada taikina sen päälle. 
-Paista 225 celsius asteessa noin puolituntia.
+Levitä uunipellille leivinpaperi ja kaada taikina sen päälle. Paista 225 celsius asteessa noin puolituntia.
